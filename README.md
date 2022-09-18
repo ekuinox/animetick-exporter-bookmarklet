@@ -1,6 +1,9 @@
 # animetick-exporter-bookmarklet
 
-animetickの視聴状況をJSONとして保存するためのブックマークレット
+[![build](https://github.com/ekuinox/animetick-exporter-bookmarklet/actions/workflows/build.yml/badge.svg)](https://github.com/ekuinox/animetick-exporter-bookmarklet/actions/workflows/build.yml)
+[![release](https://github.com/ekuinox/animetick-exporter-bookmarklet/actions/workflows/release.yml/badge.svg)](https://github.com/ekuinox/animetick-exporter-bookmarklet/actions/workflows/release.yml)
+
+[animetick](http://animetick.net)の視聴状況をJSONとして保存するためのブックマークレット
 
 ## usage
 
