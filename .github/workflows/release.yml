@@ -11,9 +11,8 @@ jobs:
     runs-on: ${{ matrix.os }}
 
     steps:
-      - uses: actions/checkout@v2
-      - name: @volta-cli/action
-        uses: volta-cli/action@v4.0.0-beta.2
+      - uses: actions/checkout@v3
+      - uses: volta-cli/action@v3
       - name: build
         run: |
           npm ci
